@@ -10,5 +10,5 @@ Eu sou o Hugo Lemos, sou um programador Front End, estou aprendendo e criando pr
 <img aling="left" alt="icone do linledin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png">
 </a>
 <br>
-
+<br>
 [![Hugo status](https://github-stats-extended.vercel.app/api?username=hugolemoss96)](https://github.com/stats-organization/github-stats-extended)
